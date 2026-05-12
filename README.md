@@ -21,11 +21,7 @@
 <!--                   TYPING ANIMATION                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=BB9AF7&center=true&vCenter=true&width=680&lines=🤖+Building+AI%2FML+Systems+%26+RAG+Pipelines;🧩+Mastering+Data+Structures+%26+Algorithms;🚀+Aspiring+Software+Development+Engineer;🔬+Exploring+Intelligent+Systems+%26+LLMs;💜+Discipline+%2B+Consistency+%3D+Greatness)](https://git.io/typing-svg)
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL BADGES                          -->
