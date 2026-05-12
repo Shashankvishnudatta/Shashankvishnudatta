@@ -43,42 +43,27 @@
 </div>
 
 <br/>
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME  —  Option A (Terminal)      -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img align="right" alt="Coding GIF" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 🖥️ &nbsp;About Me
-
-```bash
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  $ whoami                                            │
-│  ▶  Shashank Vishnu Datta                           │
-│                                                      │
-│  $ cat role.txt                                      │
-│  ▶  SDE Aspirant & AI/ML Engineer [in progress]     │
-│                                                      │
-│  $ cat focus.txt                                     │
-│  ▶  DSA  •  AI/ML  •  RAG Systems  •  LLMs         │
-│                                                      │
-│  $ cat stack.txt                                     │
-│  ▶  Java  •  Python  •  TensorFlow  •  C/C++        │
-│                                                      │
-│  $ cat goal.txt                                      │
-│  ▶  SDE + AI/ML Engineer  🚀                        │
-│                                                      │
-│  $ uptime                                            │
-│  ▶  Coding consistently, every single day ⚡         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
+<!-- ═══ ABOUT ME ═══ -->
+ 
+<img align="right" alt="Coding GIF" width="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🌙 &nbsp;About Me
+ 
+Hey there! I'm **Shashank** 👋 — a passionate developer obsessed with the idea that **code can be made intelligent.**
+ 
+I'm on a focused journey to become an **SDE + AI/ML Engineer** — grinding through Data Structures & Algorithms every day, building real AI/ML systems, and diving deep into **RAG pipelines and LLM applications.**
+ 
+What drives me isn't just passing interviews — it's the belief that **disciplined, consistent work compounds into something extraordinary** over time.
+ 
+When I'm not solving problems, I'm exploring how AI can make software smarter, faster, and more human.
+ 
+<br/>
+![Disciplines](https://img.shields.io/badge/⚔️_DSA_Daily_Grind-0d1117?style=for-the-badge&labelColor=7c3aed)
+![AI](https://img.shields.io/badge/🤖_AI%2FML_Builder-0d1117?style=for-the-badge&labelColor=4c1d95)
+![RAG](https://img.shields.io/badge/🔗_RAG_Explorer-0d1117?style=for-the-badge&labelColor=2d1b69)
+![Goal](https://img.shields.io/badge/🚀_SDE_Goal-0d1117?style=for-the-badge&labelColor=bb9af7)
+ 
 <br clear="right"/>
-
 ---
-
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                CURRENT FOCUS  —  Option D (Checklist)     -->
 <!-- ══════════════════════════════════════════════════════════ -->
