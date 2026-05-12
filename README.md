@@ -1,99 +1,229 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=HEY+THERE!+I'M+SHASHANK;AI+/+ML+ENGINEER;SDE+ASPIRANT;CONTINUOUS+LEARNER" alt="Typing SVG" />
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    HEADER BANNER                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Shashank%20Vishnu%20Datta&fontSize=70&fontColor=00D9FF&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1040,75:2d1b69,100:4c1d95&height=230&section=header&text=Shashank%20Vishnu%20Datta&fontSize=46&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=SDE%20Aspirant%20%7C%20AI%2FML%20Enthusiast%20%7C%20DSA%20Learner&descAlignY=62&descColor=a78bfa&descSize=18" width="100%"/>
 
----
-
-### 🚀 **Engineering Intelligent Solutions with Precision**
-
-[![GitHub followers](https://img.shields.io/github/followers/Shashankvishnudatta?style=for-the-badge&color=00D9FF&labelColor=1a2332&logo=github)](https://github.com/Shashankvishnudatta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solving-00D9FF?style=for-the-badge&logo=leetcode&labelColor=1a2332)](https://leetcode.com/u/SHASHANK_VISHNU_DATTA/)
-[![Gmail](https://img.shields.io/badge/Connect-Mail-00D9FF?style=for-the-badge&logo=gmail&labelColor=1a2332)](mailto:shashankvishnudatta@gmail.com)
-
-</div>
-
----
-
-## 💫 **Brief Overview**
-A passionate **Computer Science student** specializing in **AI & Machine Learning**. I focus on bridging the gap between complex algorithms and real-world applications. Currently deep-diving into **RAG Systems** and **Scalable Backend Architectures**.
-
-- 🔭 **Working on:** High-performance AI agents and RAG implementations.
-- ⚡ **Core Strength:** Data Structures & Algorithms and Systematic Problem Solving.
-- 📚 **Learning:** Distributed Systems and LLM Fine-tuning.
-
----
-
-## 🛠️ **Tech Universe**
-
-<div align="center">
-
-| **Languages** | **AI/ML & Data** | **Frameworks & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,cpp,python,c&theme=dark" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb&theme=dark" /> | <img src="https://skillicons.dev/icons?i=spring,docker,git,linux,vscode&theme=dark" /> |
-
-</div>
-
----
-
-## 📊 **Performance Metrics**
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashankvishnudatta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=a9b1d6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankvishnudatta&theme=tokyonight&hide_border=true&background=0D1117&sideNums=00D9FF&currStreakNum=00D9FF&currStreakLabel=00D9FF" />
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankvishnudatta&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=E8E8E8" />
-
-</div>
-
----
-
-## 🧠 **Competitive Edge**
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/SHASHANK_VISHNU_DATTA?theme=dark&font=Recursive&ext=contest" />
-
-</div>
-
----
-
-## 🚀 **Key Initiatives**
-
-| Project | Focus Area | Status |
-|:--- |:--- |:---:|
-| **🤖 AI/ML Systems** | Neural Networks & Predictive Modeling | `ACTIVE` |
-| **🧠 RAG Architectures** | Retrieval-Augmented Generation & Vector DBs | `ACTIVE` |
-| **⚡ Backend APIs** | Scalable Java Spring Boot Microservices | `BUILDING` |
-
----
-
-## 🐍 **Contribution Flow**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shashankvishnudatta/Shashankvishnudatta/output/snake.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 **Let's Build Something Together**
-
-<a href="https://www.linkedin.com/in/shashank-vishnu-datta-nagula/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Shashankvishnudatta" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/Shashank_vishnu_datta" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=BB9AF7&center=true&vCenter=true&width=680&lines=🤖+Building+AI%2FML+Systems+%26+RAG+Pipelines;🧩+Mastering+Data+Structures+%26+Algorithms;🚀+Aspiring+Software+Development+Engineer;🔬+Exploring+Intelligent+Systems+%26+LLMs;💜+Discipline+%2B+Consistency+%3D+Greatness)](https://git.io/typing-svg)
 
 <br/>
 
-> *"Consistency is the DNA of mastery."*
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL BADGES                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=50&section=footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-vishnu-datta-nagula/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHASHANK_VISHNU_DATTA/)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shashank_vishnu_datta)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashankvishnudatta)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shashankvishnudatta&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<img align="right" alt="Coding GIF" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+## 🌙 &nbsp;About Me
+
+```yaml
+┌─────────────────────────────────────────────┐
+│                                             │
+│  Name   :  Shashank Vishnu Datta           │
+│  Role   :  SDE Aspirant & AI/ML Engineer   │
+│  Focus  :  DSA  •  AI/ML  •  RAG Systems  │
+│  Stack  :  Java • Python • TensorFlow      │
+│  Goal   :  SDE + AI/ML Engineer 🚀         │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+<br/>
+
+🎯 &nbsp;Passionate about **building AI systems** that solve real-world problems  
+🧩 &nbsp;Solving DSA problems **consistently** every single day  
+🔗 &nbsp;Currently exploring **RAG Systems** and **LLM applications**  
+🛠️ &nbsp;Building toward becoming a **strong SDE + AI/ML Engineer**  
+⚡ &nbsp;Believer in **discipline, consistency, and long-term growth**  
+
+<br clear="right"/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   CURRENT FOCUS                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🎯 &nbsp;Current Focus
+
+<div align="center">
+
+| &nbsp; | Area | Status |
+|:------:|------|--------|
+| 🧩 | **Mastering Data Structures & Algorithms** | 🔥 Active |
+| 🤖 | **Building AI / ML Projects & Applications** | 🔨 Building |
+| 🔗 | **Learning RAG (Retrieval-Augmented Generation) Systems** | 📖 Learning |
+| 🧠 | **Improving Problem Solving & Competitive Programming** | 🔥 Active |
+| 🚀 | **Becoming an SDE + AI/ML Engineer** | 💪 In Progress |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                             -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
+
+**💻 &nbsp;Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**🤖 &nbsp;AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7c3aed?style=for-the-badge&logo=python&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-BB9AF7?style=for-the-badge&logo=openai&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-4c1d95?style=for-the-badge&logo=openai&logoColor=white)
+
+**🗄️ &nbsp;Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shashankvishnudatta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&icon_color=7c3aed&text_color=c0caf5&border_radius=12&count_private=true" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shashankvishnudatta&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=bb9af7&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=7dcfff&border_radius=12" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankvishnudatta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&text_color=c0caf5&border_radius=12&langs_count=8" width="42%"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   LEETCODE STATS                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SHASHANK_VISHNU_DATTA?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12)](https://leetcode.com/u/SHASHANK_VISHNU_DATTA/)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+| 🔖 Project | 📝 Description | 🏷️ Tags | 🔄 Status |
+|-----------|----------------|---------|----------|
+| 🤖 **AI/ML Applications** | Intelligent apps powered by ML models & neural networks | `Python` `TensorFlow` `ML` | 🔨 Building |
+| 🔗 **RAG Systems** | Retrieval-Augmented Generation pipelines & AI chatbots | `Python` `LLMs` `RAG` | 🔨 Building |
+| 🧩 **DSA Journey** | Structured problem-solving repo: solutions, patterns & notes | `Java` `C++` `DSA` | ✅ Active |
+| 🧠 **Intelligent Systems** | AI-powered automation & decision-making systems | `Python` `ML` `AI` | 📋 Planning |
+| 🌐 **Full Stack Projects** | Future web apps with AI/ML integration | `Full Stack` `AI` | 📋 Planned |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashankvishnudatta/Shashankvishnudatta/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shashankvishnudatta/Shashankvishnudatta/output/github-contribution-grid-snake.svg"/>
+  <img alt="🐍 Contribution Snake Animation" src="https://raw.githubusercontent.com/Shashankvishnudatta/Shashankvishnudatta/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               ACTIVITY GRAPH                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp;Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankvishnudatta&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=12)](https://github.com/Shashankvishnudatta)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                     QUOTE FOOTER                          -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+### 💜 &nbsp;Words I Live By
+
+<br/>
+
+> *"Discipline beats motivation. Consistency builds greatness."*
+
+<br/>
+
+---
+
+**✨ &nbsp;Thanks for visiting my profile! If you find something useful, drop a ⭐**
+
+**💬 &nbsp;Open to collaborating on AI/ML & DSA projects — feel free to reach out!**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,40:2d1b69,75:1a1040,100:0d1117&height=130&section=footer" width="100%"/>
 
 </div>
