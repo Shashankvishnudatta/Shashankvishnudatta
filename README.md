@@ -4,7 +4,7 @@
 <!--                    HEADER BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 <!-- ═══ WAVE HEADER (background only) ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1040,75:2d1b69,100:4c1d95&height=160&section=header" width="100%"/>
+
 
 <!-- ═══ ANIMATED NAME — Cartoon Font (Pacifico) ═══ -->
 <div align="center">
