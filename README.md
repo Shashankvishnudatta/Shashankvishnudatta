@@ -9,9 +9,23 @@
 <!-- ═══ ANIMATED NAME — Cartoon Font (Pacifico) ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=3500&pause=2500&color=c4b5fd&center=true&vCenter=true&width=750&height=90&lines=Shashank+Vishnu+Datta)](https://github.com/Shashankvishnudatta)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=3500&pause=2500&color=c4b5fd&center=true&vCenter=true&width=750&height=90&lines=Shashank+Vishnu+Datta)](https://git.io/typing-svg)
+
+<!-- ═══ ANIMATED SUBTITLE — Rotating Lines ═══ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=750&height=55&lines=✦+SDE+Aspirant+%7C+AI%2FML+Enthusiast+%7C+DSA+Learner+✦;🤖+Building+AI+Systems+%26+RAG+Pipelines;🧩+Mastering+Data+Structures+%26+Algorithms;🚀+Aspiring+SDE+%2B+AI%2FML+Engineer;💜+Discipline+%2B+Consistency+%3D+Greatness)](https://git.io/typing-svg)
 
 </div>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=BB9AF7&center=true&vCenter=true&width=680&lines=🤖+Building+AI%2FML+Systems+%26+RAG+Pipelines;🧩+Mastering+Data+Structures+%26+Algorithms;🚀+Aspiring+Software+Development+Engineer;🔬+Exploring+Intelligent+Systems+%26+LLMs;💜+Discipline+%2B+Consistency+%3D+Greatness)](https://git.io/typing-svg)
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL BADGES                          -->
@@ -127,13 +141,13 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shashankvishnudatta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&icon_color=7c3aed&text_color=c0caf5"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shashankvishnudatta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&icon_color=7c3aed&text_color=c0caf5&border_radius=12&count_private=true" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shashankvishnudatta&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=bb9af7&currStreakLabel=c4b5fd&sideLabels=a78bfa"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shashankvishnudatta&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=bb9af7&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=7dcfff&border_radius=12" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankvishnudatta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&text_color=c0caf5&border_color=7c3aed"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankvishnudatta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&text_color=c0caf5&border_radius=12&langs_count=8" width="42%"/>
 
 </div>
 
@@ -199,7 +213,7 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankvishnudatta&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=12)](https://github-readme-activity-graph.vercel.app/graph?username=Shashankvishnudatta&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=12)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankvishnudatta&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=12)](https://github.com/Shashankvishnudatta)
 
 </div>
 
