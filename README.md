@@ -44,58 +44,92 @@
 
 <br/>
 <!-- ═══ ABOUT ME ═══ -->
-
-<img align="right" alt="Coding GIF" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 🖥️ &nbsp;About Me
-
-```bash
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  $ whoami                                            │
-│  ▶  Shashank Vishnu Datta                           │
-│                                                      │
-│  $ cat role.txt                                      │
-│  ▶  SDE Aspirant & AI/ML Engineer [in progress]     │
-│                                                      │
-│  $ cat focus.txt                                     │
-│  ▶  DSA  •  AI/ML  •  RAG Systems  •  LLMs         │
-│                                                      │
-│  $ cat stack.txt                                     │
-│  ▶  Java  •  Python  •  TensorFlow  •  C/C++        │
-│                                                      │
-│  $ cat goal.txt                                      │
-│  ▶  SDE + AI/ML Engineer  🚀                        │
-│                                                      │
-│  $ uptime                                            │
-│  ▶  Coding consistently, every single day ⚡         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-<br clear="right"/>
-
+ 
+## 🌙 &nbsp;About Me
+ 
+<table>
+<tr>
+<td width="55%">
+### 👤 &nbsp;Who am I?
+ 
+<br/>
+🧑‍💻 &nbsp;**Shashank Vishnu Datta** — developer on a mission  
+🎯 &nbsp;Targeting **SDE + AI/ML Engineer** roles  
+🌏 &nbsp;Currently sharpening my skills in **DSA, AI/ML & RAG**  
+💡 &nbsp;Passionate about building systems that are **intelligent & impactful**  
+⚡ &nbsp;Believer in **discipline, consistency, and long-term compounding**  
+🔗 &nbsp;Always exploring the intersection of **Code × Intelligence**  
+ 
+<br/>
+> *"I don't just write code — I build systems that think."*
+ 
+</td>
+<td width="45%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
+</td>
+</tr>
+</table>
 ---
-
+ 
 <!-- ═══ CURRENT FOCUS ═══ -->
-
+ 
 ## 🎯 &nbsp;Current Focus
-
-```bash
-$ cat current_missions.txt
-
-  [██████████] 100%  Solving DSA Problems Daily            ✅ ACTIVE
-  [████████░░]  80%  Building AI / ML Applications         🔨 BUILDING
-  [██████░░░░]  60%  Learning RAG Systems & LLM Pipelines  📖 LEARNING
-  [████████░░]  80%  Competitive Programming & CP          🔥 ACTIVE
-  [████░░░░░░]  40%  Full Stack + AI Integration           📋 PLANNED
-
-$ echo "Target: SDE + AI/ML Engineer 🚀"
-  ▶  Executing with discipline. Shipping with consistency.
-```
-
+ 
+<table align="center">
+<tr>
+<td align="center" width="200">
+**🧩 DSA Mastery**
+<br/>
+`Daily problem solving`
+<br/>
+![](https://img.shields.io/badge/Status-Active-7c3aed?style=flat-square)
+ 
+</td>
+<td align="center" width="200">
+**🤖 AI / ML Projects**
+<br/>
+`Building real applications`
+<br/>
+![](https://img.shields.io/badge/Status-Building-bb9af7?style=flat-square)
+ 
+</td>
+<td align="center" width="200">
+**🔗 RAG Systems**
+<br/>
+`LLM pipelines & retrieval`
+<br/>
+![](https://img.shields.io/badge/Status-Learning-4c1d95?style=flat-square)
+ 
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+**🧠 Competitive Programming**
+<br/>
+`Problem solving skills`
+<br/>
+![](https://img.shields.io/badge/Status-Active-7c3aed?style=flat-square)
+ 
+</td>
+<td align="center" width="200">
+**🚀 SDE + AI/ML Goal**
+<br/>
+`The ultimate target`
+<br/>
+![](https://img.shields.io/badge/Status-In%20Progress-a78bfa?style=flat-square)
+ 
+</td>
+<td align="center" width="200">
+**🌐 Full Stack Projects**
+<br/>
+`Future AI-integrated apps`
+<br/>
+![](https://img.shields.io/badge/Status-Planned-2d1b69?style=flat-square)
+ 
+</td>
+</tr>
+</table>
 ---
-
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
