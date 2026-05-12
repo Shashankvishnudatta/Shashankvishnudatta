@@ -9,7 +9,7 @@
 <!-- ═══ ANIMATED NAME — Cartoon Font (Pacifico) ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=3500&pause=2500&color=c4b5fd&center=true&vCenter=true&width=750&height=90&lines=Shashank+Vishnu+Datta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=3500&pause=200000000000500&color=c4b5fd&center=true&vCenter=true&width=750&height=90&lines=Shashank+Vishnu+Datta)](https://git.io/typing-svg)
 
 <!-- ═══ ANIMATED SUBTITLE — Rotating Lines ═══ -->
 
