@@ -129,25 +129,7 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shashankvishnudatta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&icon_color=7c3aed&text_color=c0caf5&border_radius=12&count_private=true" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shashankvishnudatta&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=bb9af7&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=7dcfff&border_radius=12" width="49%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankvishnudatta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb9af7&text_color=c0caf5&border_radius=12&langs_count=8" width="42%"/>
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   LEETCODE STATS                          -->
