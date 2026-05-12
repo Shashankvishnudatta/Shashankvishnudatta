@@ -3,8 +3,19 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    HEADER BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
+<!-- ═══ WAVE HEADER (background only) ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1040,75:2d1b69,100:4c1d95&height=160&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1040,75:2d1b69,100:4c1d95&height=230&section=header&text=Shashank%20Vishnu%20Datta&fontSize=46&fontColor=c4b5fd&animation=fadeIn&fontAlignY=40&desc=SDE%20Aspirant%20%7C%20AI%2FML%20Enthusiast%20%7C%20DSA%20Learner&descAlignY=62&descColor=a78bfa&descSize=18" width="100%"/>
+<!-- ═══ ANIMATED NAME — Cartoon Font (Pacifico) ═══ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=3500&pause=2500&color=c4b5fd&center=true&vCenter=true&width=750&height=90&lines=Shashank+Vishnu+Datta)](https://git.io/typing-svg)
+
+<!-- ═══ ANIMATED SUBTITLE — Rotating Lines ═══ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=750&height=55&lines=✦+SDE+Aspirant+%7C+AI%2FML+Enthusiast+%7C+DSA+Learner+✦;🤖+Building+AI+Systems+%26+RAG+Pipelines;🧩+Mastering+Data+Structures+%26+Algorithms;🚀+Aspiring+SDE+%2B+AI%2FML+Engineer;💜+Discipline+%2B+Consistency+%3D+Greatness)](https://git.io/typing-svg)
+
+</div>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                        -->
