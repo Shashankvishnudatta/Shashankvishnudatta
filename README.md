@@ -43,56 +43,56 @@
 </div>
 
 <br/>
+<!-- ═══ ABOUT ME ═══ -->
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<img align="right" alt="Coding GIF" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" alt="Coding GIF" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 🖥️ &nbsp;About Me
 
-## 🌙 &nbsp;About Me
-
-```yaml
-┌─────────────────────────────────────────────┐
-│                                             │
-│  Name   :  Shashank Vishnu Datta           │
-│  Role   :  SDE Aspirant & AI/ML Engineer   │
-│  Focus  :  DSA  •  AI/ML  •  RAG Systems  │
-│  Stack  :  Java • Python • TensorFlow      │
-│  Goal   :  SDE + AI/ML Engineer 🚀         │
-│                                             │
-└─────────────────────────────────────────────┘
+```bash
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  $ whoami                                            │
+│  ▶  Shashank Vishnu Datta                           │
+│                                                      │
+│  $ cat role.txt                                      │
+│  ▶  SDE Aspirant & AI/ML Engineer [in progress]     │
+│                                                      │
+│  $ cat focus.txt                                     │
+│  ▶  DSA  •  AI/ML  •  RAG Systems  •  LLMs         │
+│                                                      │
+│  $ cat stack.txt                                     │
+│  ▶  Java  •  Python  •  TensorFlow  •  C/C++        │
+│                                                      │
+│  $ cat goal.txt                                      │
+│  ▶  SDE + AI/ML Engineer  🚀                        │
+│                                                      │
+│  $ uptime                                            │
+│  ▶  Coding consistently, every single day ⚡         │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
-
-<br/>
-
-🎯 &nbsp;Passionate about **building AI systems** that solve real-world problems  
-🧩 &nbsp;Solving DSA problems **consistently** every single day  
-🔗 &nbsp;Currently exploring **RAG Systems** and **LLM applications**  
-🛠️ &nbsp;Building toward becoming a **strong SDE + AI/ML Engineer**  
-⚡ &nbsp;Believer in **discipline, consistency, and long-term growth**  
 
 <br clear="right"/>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
+<!-- ═══ CURRENT FOCUS ═══ -->
 
 ## 🎯 &nbsp;Current Focus
 
-<div align="center">
+```bash
+$ cat current_missions.txt
 
-| &nbsp; | Area | Status |
-|:------:|------|--------|
-| 🧩 | **Mastering Data Structures & Algorithms** | 🔥 Active |
-| 🤖 | **Building AI / ML Projects & Applications** | 🔨 Building |
-| 🔗 | **Learning RAG (Retrieval-Augmented Generation) Systems** | 📖 Learning |
-| 🧠 | **Improving Problem Solving & Competitive Programming** | 🔥 Active |
-| 🚀 | **Becoming an SDE + AI/ML Engineer** | 💪 In Progress |
+  [██████████] 100%  Solving DSA Problems Daily            ✅ ACTIVE
+  [████████░░]  80%  Building AI / ML Applications         🔨 BUILDING
+  [██████░░░░]  60%  Learning RAG Systems & LLM Pipelines  📖 LEARNING
+  [████████░░]  80%  Competitive Programming & CP          🔥 ACTIVE
+  [████░░░░░░]  40%  Full Stack + AI Integration           📋 PLANNED
 
-</div>
+$ echo "Target: SDE + AI/ML Engineer 🚀"
+  ▶  Executing with discipline. Shipping with consistency.
+```
 
 ---
 
