@@ -43,10 +43,13 @@
 <!--                     ABOUT ME                              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding GIF" width="280"
-  src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-
 ## 🌙 &nbsp;About Me
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+<br/>
 
 Hey there! I'm **Shashank** 👋 — a passionate developer obsessed with the idea that **code can be made intelligent.**
 
@@ -63,9 +66,17 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 ![RAG](https://img.shields.io/badge/RAG%20Explorer-2d1b69?style=for-the-badge&logo=openai&logoColor=white)
 ![Goal](https://img.shields.io/badge/SDE%20Goal-bb9af7?style=for-the-badge&logo=rocket&logoColor=black)
 
-<br clear="right"/>
+</td>
+<td valign="bottom" width="40%" align="center">
 
----
+<br/><br/><br/>
+
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="260" style="border-radius: 12px;"/>
+
+</td>
+</tr>
+</table>
+
 ---
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                CURRENT FOCUS  —  Option D (Checklist)     -->
