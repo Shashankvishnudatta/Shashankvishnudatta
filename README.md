@@ -43,26 +43,52 @@
 </div>
 
 <br/>
-<!-- ═══ ABOUT ME ═══ -->
- 
-<img align="right" alt="Coding GIF" width="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--         FIXED ABOUT ME — Working Badges + Cartoon GIF     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<!-- 
+  🎨 CARTOON GIF OPTIONS — Pick ONE and replace the src below:
+
+  Option 1 (Anime coder - purple glow):
+  https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif
+
+  Option 2 (Cute cartoon developer at desk):
+  https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+
+  Option 3 (Anime girl coding - colorful):
+  https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-900a-4d58-b1f8-3ef1e3b2f9e3.gif
+
+  Option 4 (Matrix/hacker cartoon style):
+  https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif
+
+  Option 5 (Cute robot coding — most cartoon):
+  https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif
+-->
+
+<img align="right" alt="Coding GIF" width="280"
+  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
+
 ## 🌙 &nbsp;About Me
- 
+
 Hey there! I'm **Shashank** 👋 — a passionate developer obsessed with the idea that **code can be made intelligent.**
- 
+
 I'm on a focused journey to become an **SDE + AI/ML Engineer** — grinding through Data Structures & Algorithms every day, building real AI/ML systems, and diving deep into **RAG pipelines and LLM applications.**
- 
+
 What drives me isn't just passing interviews — it's the belief that **disciplined, consistent work compounds into something extraordinary** over time.
- 
+
 When I'm not solving problems, I'm exploring how AI can make software smarter, faster, and more human.
- 
+
 <br/>
-![Disciplines](https://img.shields.io/badge/⚔️_DSA_Daily_Grind-0d1117?style=for-the-badge&labelColor=7c3aed)
-![AI](https://img.shields.io/badge/🤖_AI%2FML_Builder-0d1117?style=for-the-badge&labelColor=4c1d95)
-![RAG](https://img.shields.io/badge/🔗_RAG_Explorer-0d1117?style=for-the-badge&labelColor=2d1b69)
-![Goal](https://img.shields.io/badge/🚀_SDE_Goal-0d1117?style=for-the-badge&labelColor=bb9af7)
- 
+
+![DSA](https://img.shields.io/badge/DSA%20Daily%20Grind-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white)
+![AI](https://img.shields.io/badge/AI%2FML%20Builder-4c1d95?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Explorer-2d1b69?style=for-the-badge&logo=openai&logoColor=white)
+![Goal](https://img.shields.io/badge/SDE%20Goal-bb9af7?style=for-the-badge&logo=rocket&logoColor=black)
+
 <br clear="right"/>
+
+---
 ---
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                CURRENT FOCUS  —  Option D (Checklist)     -->
