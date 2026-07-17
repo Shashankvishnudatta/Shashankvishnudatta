@@ -79,40 +79,6 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 
 ---
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                CURRENT FOCUS  —  Option D (Checklist)     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🎯 &nbsp;Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-**What I'm working on right now:**
-
-- [x] 🧩 &nbsp;Mastering **Data Structures & Algorithms**
-- [x] 🔥 &nbsp;**Daily** problem solving on LeetCode & CF
-- [ ] 🤖 &nbsp;Building **AI / ML Applications**
-- [ ] 🔗 &nbsp;Learning **RAG Systems** & LLM pipelines
-- [ ] 🧠 &nbsp;Sharpening **Competitive Programming** skills
-
-</td>
-<td width="50%">
-
-**The bigger picture:**
-
-- [ ] 🚀 &nbsp;Land **SDE + AI/ML Engineer** role
-- [ ] 🌐 &nbsp;Build **Full Stack + AI** integrated projects
-- [ ] 📦 &nbsp;Publish **open-source AI tools**
-- [ ] 🏆 &nbsp;Achieve strong **CP rating** on Codeforces
-- [ ] 📜 &nbsp;Earn **ML/AI certifications**
-
-</td>
-</tr>
-</table>
-
----
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -157,25 +123,6 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-| 🔖 Project | 📝 Description | 🏷️ Tags | 🔄 Status |
-|-----------|----------------|---------|----------|
-| 🤖 **AI/ML Applications** | Intelligent apps powered by ML models & neural networks | `Python` `TensorFlow` `ML` | 🔨 Building |
-| 🔗 **RAG Systems** | Retrieval-Augmented Generation pipelines & AI chatbots | `Python` `LLMs` `RAG` | 🔨 Building |
-| 🧩 **DSA Journey** | Structured problem-solving repo: solutions, patterns & notes | `Java` `C++` `DSA` | ✅ Active |
-| 🧠 **Intelligent Systems** | AI-powered automation & decision-making systems | `Python` `ML` `AI` | 📋 Planning |
-| 🌐 **Full Stack Projects** | Future web apps with AI/ML integration | `Full Stack` `AI` | 📋 Planned |
-
-</div>
-
----
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--               CONTRIBUTION SNAKE                          -->
