@@ -142,18 +142,6 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--               ACTIVITY GRAPH                              -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp;Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashankvishnudatta&bg_color=0d1117&color=bb9af7&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=12)](https://github.com/Shashankvishnudatta)
-
-</div>
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
