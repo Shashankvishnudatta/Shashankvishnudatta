@@ -3,25 +3,17 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    HEADER BANNER                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
-<!-- ═══ WAVE HEADER (background only) ═══ -->
-
 
 <!-- ═══ ANIMATED NAME — Cartoon Font (Pacifico) ═══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=3500&pause=200000000000500&color=c4b5fd&center=true&vCenter=true&width=750&height=90&lines=Shashank+Vishnu+Datta)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=44&duration=3500&pause=1000&color=c4b5fd&center=true&vCenter=true&width=750&height=90&lines=Shashank+Vishnu+Datta)](https://git.io/typing-svg)
 
 <!-- ═══ ANIMATED SUBTITLE — Rotating Lines ═══ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=22&pause=1200&color=a78bfa&center=true&vCenter=true&width=750&height=55&lines=✦+SDE+Aspirant+%7C+AI%2FML+Enthusiast+%7C+DSA+Learner+✦;🤖+Building+AI+Systems+%26+RAG+Pipelines;🧩+Mastering+Data+Structures+%26+Algorithms;🚀+Aspiring+SDE+%2B+AI%2FML+Engineer;💜+Discipline+%2B+Consistency+%3D+Greatness)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fredoka+One&size=20&pause=1200&color=a78bfa&center=true&vCenter=true&width=750&height=55&lines=%E2%9C%A6+SDE+Aspirant+%7C+AI%2FML+Engineer+%7C+DSA+Learner+%E2%9C%A6;%F0%9F%A4%96+Building+AI+Systems+%26+RAG+Pipelines;%F0%9F%A7%A9+Mastering+Data+Structures+%26+Algorithms;%F0%9F%9A%80+Aspiring+SDE+%2B+AI%2FML+Engineer;%F0%9F%92%9C+Discipline+%2B+Consistency+%3D+Greatness)](https://git.io/typing-svg)
 
 </div>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL BADGES                          -->
@@ -39,6 +31,16 @@
 </div>
 
 <br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  CURRENTLY BUILDING                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### 🔭 &nbsp;Currently Building
+**Crime Intelligence & Analytics Platform** — a conversational AI system for the Karnataka Police Datathon, using FastAPI, LangGraph, Supabase/pgvector, and NetworkX for entity-relationship analysis.
+
+---
+
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                     ABOUT ME                              -->
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -78,6 +80,56 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 </table>
 
 ---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                 FEATURED PROJECTS                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚓 Crime Intelligence & Analytics Platform
+Conversational AI platform for crime data analysis built for the Karnataka Police Datathon — text-to-SQL retrieval, RAG over case records, and graph-based entity analysis.
+
+`FastAPI` `React/TypeScript` `Supabase + pgvector` `LangGraph` `NetworkX` `BGE-M3`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent AI Software Engineering Platform
+A portfolio-scale multi-agent system that plans, writes, and reviews code — combining LLM orchestration with semantic code search.
+
+`LangGraph` `OpenRouter` `Qdrant` `BGE-M3` `Tree-sitter` `React/Vite/Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ ShopSense
+Hybrid product recommendation engine combining content-based and collaborative filtering with a tunable scoring formula, plus an "Explain with AI" feature for transparent recommendations.
+
+`Python` `Cosine Similarity` `React` `Hybrid Recommender Systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ GeoShield AI
+*(Add a 1–2 line description of what this project does here.)*
+
+`Add tech stack badges here`
+
+</td>
+</tr>
+</table>
+
+> 💡 Swap these cards for your actual pinned repos, and add live demo links wherever you have one deployed.
+
+---
+
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -86,28 +138,53 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 
 **💻 &nbsp;Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **🤖 &nbsp;AI / ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7c3aed?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=graphql&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-BB9AF7?style=for-the-badge&logo=openai&logoColor=black)
 ![LLMs](https://img.shields.io/badge/LLMs-4c1d95?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**🗄️ &nbsp;Database & Tools**
+**⚙️ &nbsp;Backend & Data**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+**🎨 &nbsp;Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**🗄️ &nbsp;Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashankvishnudatta&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashankvishnudatta&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd" />
+
+</div>
+
+---
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   LEETCODE STATS                          -->
@@ -122,7 +199,6 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 </div>
 
 ---
-
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--               CONTRIBUTION SNAKE                          -->
@@ -139,8 +215,6 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 </picture>
 
 </div>
-
----
 
 ---
 
