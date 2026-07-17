@@ -91,42 +91,47 @@ When I'm not solving problems, I'm exploring how AI can make software smarter, f
 <tr>
 <td width="50%" valign="top">
 
-### 🚓 Crime Intelligence & Analytics Platform
-Conversational AI platform for crime data analysis built for the Karnataka Police Datathon — text-to-SQL retrieval, RAG over case records, and graph-based entity analysis.
+### 🚓 [Crime Intelligence & Analytics Platform](https://github.com/emailakhilak/Project_Crime)
+Conversational AI platform for crime data analysis, built for the Karnataka Police Datathon — text-to-SQL retrieval, RAG over case records, and graph-based entity analysis.
 
 `FastAPI` `React/TypeScript` `Supabase + pgvector` `LangGraph` `NetworkX` `BGE-M3`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Multi-Agent AI Software Engineering Platform
-A portfolio-scale multi-agent system that plans, writes, and reviews code — combining LLM orchestration with semantic code search.
+### 🧭 [Q-Belief Net](https://github.com/Shashankvishnudatta/Q-BELIEFNET)
+A full-stack market-belief intelligence prototype — an explainable belief-scoring engine (attention, sentiment, momentum, source agreement, fragility) with a provider-observability layer, WebSocket live updates, and an LLM assistant grounded in belief snapshots.
 
-`LangGraph` `OpenRouter` `Qdrant` `BGE-M3` `Tree-sitter` `React/Vite/Tailwind`
+`FastAPI` `React 19 + TypeScript` `Zustand` `Recharts` `SQLite` `WebSockets`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ ShopSense
-Hybrid product recommendation engine combining content-based and collaborative filtering with a tunable scoring formula, plus an "Explain with AI" feature for transparent recommendations.
+### 🔍 [TruthLens ML](https://github.com/Shashankvishnudatta/TruthLens-ML)
+A hallucination-risk detector for AI-generated answers, trained on HaluEval with TF-IDF and engineered consistency features (overlap, uncertainty language, confidence phrasing) across Logistic Regression, SVM, and Random Forest models — evaluated with tuned decision thresholds and full error analysis.
 
-`Python` `Cosine Similarity` `React` `Hybrid Recommender Systems`
+`Python` `Scikit-learn` `TF-IDF` `NLP` `HaluEval`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ GeoShield AI
-*(Add a 1–2 line description of what this project does here.)*
+### ⭐ [ReviewTrust ML](https://github.com/Shashankvishnudatta/ReviewTrust-ML)
+An NLP sentiment classifier for e-commerce reviews — predicts sentiment and star-rating group from ~30K Amazon reviews using TF-IDF features, with Logistic Regression selected via macro F1-score on an imbalanced dataset. Shipped with a Streamlit demo.
 
-`Add tech stack badges here`
+`Python` `Scikit-learn` `TF-IDF` `Streamlit`
 
 </td>
 </tr>
 </table>
 
-> 💡 Swap these cards for your actual pinned repos, and add live demo links wherever you have one deployed.
+<p align="center">
+<a href="https://github.com/Shashankvishnudatta/Gen_Ai"><b>🤖 Gen_Ai</b></a> — AI/ML engineer prep repo &nbsp;•&nbsp;
+<a href="https://github.com/Shashankvishnudatta/dsa-journey"><b>🧩 dsa-journey</b></a> — daily DSA practice log
+</p>
+
+> 💡 Add a live demo link for Q-Belief Net if you've deployed it (your repo includes Render + Vercel configs), and fill in ShopSense / GeoShield AI cards once those repos are pushed to GitHub.
 
 ---
 
